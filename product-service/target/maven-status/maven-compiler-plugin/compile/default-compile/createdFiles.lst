@@ -1,0 +1,11 @@
+com\microservicepractice\productservice\dto\ProductResponse.class
+com\microservicepractice\productservice\dto\ProductRequest.class
+com\microservicepractice\productservice\ProductServiceApplication.class
+com\microservicepractice\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\microservicepractice\productservice\model\Product$ProductBuilder.class
+com\microservicepractice\productservice\service\ProductServiceImpl.class
+com\microservicepractice\productservice\controller\ProductController.class
+com\microservicepractice\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\microservicepractice\productservice\model\Product.class
+com\microservicepractice\productservice\service\ProductService.class
+com\microservicepractice\productservice\Repository\ProductRepository.class
